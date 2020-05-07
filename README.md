@@ -1,1 +1,1 @@
-This Rebeca's first git project!
+This is Rebeca's first git project!
